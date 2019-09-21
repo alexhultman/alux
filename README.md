@@ -4,6 +4,8 @@ This repo holds, for educational purposes, step-by-step procedures for creating 
 
 The immediate goal is to build from scratch a bootable USB-stick which can boot up a (custom made) graphical shell with mouse and keyboard support and eventually support basic Wayland apps. We are not going to use any existing user space apps such as Xorg, bash or systemd. This is a bare minimum Linux kernel distribution with graphics and devices working.
 
+![](video.gif)
+
 By only relying on the very Linux kernel and nothing else, one can focus ones attention to this piece of software without the fluffy stuff around.
 
 ## The basics of booting
